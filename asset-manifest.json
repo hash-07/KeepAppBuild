@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/HashKeep/static/css/main.d16577af.chunk.css",
-    "main.js": "/HashKeep/static/js/main.be79cf97.chunk.js",
-    "main.js.map": "/HashKeep/static/js/main.be79cf97.chunk.js.map",
-    "runtime-main.js": "/HashKeep/static/js/runtime-main.bd8f36e8.js",
-    "runtime-main.js.map": "/HashKeep/static/js/runtime-main.bd8f36e8.js.map",
-    "static/js/2.9224ce33.chunk.js": "/HashKeep/static/js/2.9224ce33.chunk.js",
-    "static/js/2.9224ce33.chunk.js.map": "/HashKeep/static/js/2.9224ce33.chunk.js.map",
-    "index.html": "/HashKeep/index.html",
-    "precache-manifest.6a91116a7ab77d1b363d2495abdb9acd.js": "/HashKeep/precache-manifest.6a91116a7ab77d1b363d2495abdb9acd.js",
-    "service-worker.js": "/HashKeep/service-worker.js",
-    "static/css/main.d16577af.chunk.css.map": "/HashKeep/static/css/main.d16577af.chunk.css.map",
-    "static/js/2.9224ce33.chunk.js.LICENSE.txt": "/HashKeep/static/js/2.9224ce33.chunk.js.LICENSE.txt",
-    "static/media/hk.png": "/HashKeep/static/media/hk.313f2004.png"
+    "main.css": "/KeepAppBuild/static/css/main.fd167764.chunk.css",
+    "main.js": "/KeepAppBuild/static/js/main.a692254f.chunk.js",
+    "main.js.map": "/KeepAppBuild/static/js/main.a692254f.chunk.js.map",
+    "runtime-main.js": "/KeepAppBuild/static/js/runtime-main.eb1e0287.js",
+    "runtime-main.js.map": "/KeepAppBuild/static/js/runtime-main.eb1e0287.js.map",
+    "static/js/2.9224ce33.chunk.js": "/KeepAppBuild/static/js/2.9224ce33.chunk.js",
+    "static/js/2.9224ce33.chunk.js.map": "/KeepAppBuild/static/js/2.9224ce33.chunk.js.map",
+    "index.html": "/KeepAppBuild/index.html",
+    "precache-manifest.dfe5c41027f2e1280cbca45265d366f7.js": "/KeepAppBuild/precache-manifest.dfe5c41027f2e1280cbca45265d366f7.js",
+    "service-worker.js": "/KeepAppBuild/service-worker.js",
+    "static/css/main.fd167764.chunk.css.map": "/KeepAppBuild/static/css/main.fd167764.chunk.css.map",
+    "static/js/2.9224ce33.chunk.js.LICENSE.txt": "/KeepAppBuild/static/js/2.9224ce33.chunk.js.LICENSE.txt",
+    "static/media/hk.png": "/KeepAppBuild/static/media/hk.313f2004.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.bd8f36e8.js",
+    "static/js/runtime-main.eb1e0287.js",
     "static/js/2.9224ce33.chunk.js",
-    "static/css/main.d16577af.chunk.css",
-    "static/js/main.be79cf97.chunk.js"
+    "static/css/main.fd167764.chunk.css",
+    "static/js/main.a692254f.chunk.js"
   ]
 }
